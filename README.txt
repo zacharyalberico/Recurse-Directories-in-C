@@ -1,0 +1,1 @@
+Recursively outputs directories and files.  Can take an argument to only output specfic files.  Reuses the same buffer for paths to be more memory efficient.
